@@ -2,7 +2,7 @@
 
 set -Exeo pipefail
 
-pip3 install -U git+https://github.com/edgedb/metapkg
+pip3 install -U git+https://github.com/fantix/metapkg@gsed
 pip3 install -U git+https://github.com/edgedb/edgedb-pkg@openssl
 
 extraopts=
