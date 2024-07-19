@@ -2,7 +2,7 @@
 name = "edgedb-pkg"
 dynamic = ["version"]
 requires-python = '>=3.12.0'
-dependencies = ["metapkg@git+https://github.com/edgedb/metapkg.git"]
+dependencies = ["metapkg@git+https://github.com/fantix/metapkg.git"]
 
 [build-system]
 requires = ["setuptools>=64", "setuptools-scm>=8"]

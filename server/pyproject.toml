@@ -17,7 +17,7 @@ dependencies = [
 ]
 
 [project.urls]
-github = "https://github.com/edgedb/edgedb-pkg/"
+github = "https://github.com/fantix/edgedb-pkg/"
 
 [project.scripts]
 process_incoming = "process_incoming:main"
